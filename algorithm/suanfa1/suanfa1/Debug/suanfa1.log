@@ -1,0 +1,4 @@
+﻿  main.cpp
+d:\vs_project\suanfa1\suanfa1\main.cpp(6): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  suanfa1.vcxproj -> D:\vs_Project\suanfa1\Debug\suanfa1.exe
+  suanfa1.vcxproj -> D:\vs_Project\suanfa1\Debug\suanfa1.pdb (Partial PDB)
