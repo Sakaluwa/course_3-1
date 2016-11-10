@@ -110,6 +110,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Box_fractal.cpp" />
+    <ClCompile Include="counting_number.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="DNA_sort.cpp" />
     <ClCompile Include="widget.cpp" />

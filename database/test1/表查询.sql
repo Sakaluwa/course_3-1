@@ -1,0 +1,7 @@
+--SELECT * FROM P	--查询表中全部列
+
+--SELECT PNO,PNAME	--查询表中指定列
+--FROM P
+SELECT SNO 
+FROM S
+

@@ -24,6 +24,12 @@
     <ClCompile Include="widget.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="Box_fractal.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="counting_number.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="user_function.h">

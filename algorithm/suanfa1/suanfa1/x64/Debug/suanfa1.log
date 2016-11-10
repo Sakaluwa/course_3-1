@@ -1,6 +1,3 @@
-﻿  DNA_sort.cpp
-  main.cpp
-d:\vs_project\suanfa1\suanfa1\main.cpp(6): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
-  正在生成代码...
-  suanfa1.vcxproj -> D:\vs_Project\suanfa1\x64\Debug\suanfa1.exe
-  suanfa1.vcxproj -> D:\vs_Project\suanfa1\x64\Debug\suanfa1.pdb (Partial PDB)
+﻿  main.cpp
+  suanfa1.vcxproj -> C:\Users\94839\Desktop\课件\course_3-1\algorithm\suanfa1\x64\Debug\suanfa1.exe
+  suanfa1.vcxproj -> C:\Users\94839\Desktop\课件\course_3-1\algorithm\suanfa1\x64\Debug\suanfa1.pdb (Partial PDB)
